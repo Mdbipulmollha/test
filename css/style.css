@@ -1,0 +1,201 @@
+/* header */
+header{
+        padding: 20px 0px;
+        background-color: honeydew;
+}
+
+
+.signin_btn{
+    color: white;
+    background-color: #21b573;
+    padding: 8px 16px;
+    border-radius: 19px;
+}
+.signin_btn:hover{
+    background-color: #eaa230ba;
+}
+
+
+.header_logo{padding: 5px 0;
+}
+.header_logo img{
+    width: 30%;
+}
+
+.header_menu ul li a{
+        font-size: 17px;
+        font-weight: 500;
+        color: #212529;
+        padding: 0px 27px !important;
+        text-transform: capitalize;
+}
+/* header-end ********* */
+
+
+
+ /* bannar_area start  */
+.h1 .span{}
+.banner_containt{margin-top: 50px;}
+.banner_containt .areyou{
+        font-size: 15px;
+        color: #ed0a2c;
+}
+.schedule{
+    color: #21b573;
+}
+.banner_containt h1{
+        font-weight: 900;
+        margin-top: 30px;
+        width: 78%;
+}
+.banner_btn a {
+        text-decoration: none;
+         background-color: #21b573;
+        padding: 10px 40px;
+        border-radius: 33px;
+        color: white;
+}
+.banner_btn a:hover{
+            background-color: #eaa230ba;
+}
+.banner_btn {
+         margin-top: 30px;
+}
+.banner_section{
+    
+        background-color: rgb(240 255 240);
+}
+.bannar_image img{
+    width: 100%;
+ 
+}
+
+/* bannar_area end  */
+
+
+
+/* learn_area start***** */
+.learn_students{
+     text-align: center;
+}
+.learn_students img{
+        text-align: center;
+        width: 35%;
+        height: 100px;
+}
+.topic{
+        background-color: honeydew;
+        padding: 40px 0;
+        border-radius: 10px;
+}
+.topic img{}
+.topic h2{
+        font-weight: 600;
+        margin-top: 34px;
+}
+.topic p{
+        font-size: 15px;
+        color: #9f8484c9;
+}
+.topic:hover {
+   
+    background-color: white;
+    transition: .8s;
+    box-shadow: 2px 4px 10px 6px gainsboro;
+}
+
+
+/* learn_area end***** */
+
+
+
+/* <!-- online_course start --> */
+
+.online_section h1 {
+    display: block;
+    text-align: center;
+    padding: 30px 0;
+    font-weight: 700;
+}
+.mordern_img img {
+    width: 100%;
+}
+.mordern_img {padding: 30px;}
+.mordern_content {
+    padding: 0 30px;
+}
+.mordern {
+    box-shadow: 5px 5px 7px 5px #eeefec;
+    border-radius: 10px;
+    }
+a.online_btn:hover{
+    background-color: #d49026;
+}
+
+
+a.online_btn {
+    text-decoration: none;
+    background-color: #21b573;
+    color: white;
+    padding: 10px 40px;
+    display: inline-block;
+    font-weight: 700;
+    border-radius: 30px;
+    margin: 15px 0;
+}
+.row.calender_seat p {
+    font-weight: 500;
+}
+        
+
+ /* <!-- Testimonial area start --> */
+ .testimonial_section{}
+ .testimonial_section h1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 76px;
+    margin-bottom: 75px;
+}
+ .test_man img{
+    width: 50%;
+}
+ .testimonial_section p{
+    font-size: 20px;
+    width: 70%;
+}
+ /* <!-- Testimonial area end --> */
+
+/* footer area start */
+footer{}
+.footer_section{
+    background-color: rgb(30 30 31);
+    padding: 40px 0px;
+}
+.footer_p p{
+    color: white;
+    font-size: 16px;
+}
+.footer_contant{display: block;}
+.footer_contant h6{
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+}
+.footer_contant ul{
+    padding: 0px;
+}
+.footer_contant ul li{
+    color: white;
+    list-style: none;
+}
+.copy{}
+.copy p{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+
+/* footer area end */
+
+
+
